@@ -14,7 +14,7 @@
 
 > 📦 210.8 kB Used in GitHub's Storage 
  > 
-> 🏆 69 Contributions in the Year 2024
+> 🏆 72 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -22,45 +22,6 @@
  > 
 > 🔑 23 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1016 commits        ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
-🌆 Daytime                1755 commits        ██████████░░░░░░░░░░░░░░░   39.57 % 
-🌃 Evening                924 commits         █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-🌙 Night                  740 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1020 commits        ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
-Tuesday                  674 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Wednesday                665 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Thursday                 741 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-Friday                   425 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Saturday                 393 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-Sunday                   517 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -78,6 +39,6 @@ Swift                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/duylv27/duylv27/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2024 16:57:35 UTC
+ Last Updated on 21/11/2024 17:00:40 UTC
 <!--END_SECTION:waka-->
 ```
