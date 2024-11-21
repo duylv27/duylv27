@@ -3,9 +3,6 @@ name: wakatime
 on:
   schedule:
     - cron: '0 0 * * *'
-  push:
-    branches:
-      - main
   workflow_dispatch:  
 
 jobs:
@@ -20,3 +17,5 @@ jobs:
           SHOW_SHORT_INFO: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_LINES_OF_CODE: "True"
+          SHOW_TIMEZONE: "False"
+          SHOW_OS: "False"
