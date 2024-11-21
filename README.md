@@ -2,7 +2,7 @@
 <p align="center">
 <a href="#"><img src="https://readme-typing-svg.demolab.com/?font=&size=27&pause=1000&color=CC2B52&vCenter=true&center=true&repeat=false&width=435&lines=Code in peace"></a>
 
-```md
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
